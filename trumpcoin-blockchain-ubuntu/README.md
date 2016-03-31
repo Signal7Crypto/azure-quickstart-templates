@@ -5,8 +5,8 @@ This template installs a TrumpCoin node to an Azure VM.
 Once installed, Trumpcoind will start and begin syncing the blockchain.
 You may then connect via SSH to the VM and launch 'Trumpcoind' to interface with the blockchain.
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSignal7%2Fazure-quickstart-templates%2Fmaster%2Ftrumpcoin-blockchain-ubuntu%2Fazuredeploy.json" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
-<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FSignal7%2Fazure-quickstart-templates%2Fmaster%2Ftrumpcoin-blockchain-ubuntu%2Fazuredeploy.json" target="_blank"><img src="http://armviz.io/visualizebutton.png"/></a>
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSignal7Crypto%2Fazure-quickstart-templates%2Fmaster%2Ftrumpcoin-blockchain-ubuntu%2Fazuredeploy.json" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
+<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FSignal7Crypto%2Fazure-quickstart-templates%2Fmaster%2Ftrumpcoin-blockchain-ubuntu%2Fazuredeploy.json" target="_blank"><img src="http://armviz.io/visualizebutton.png"/></a>
 
 # What is TrumpCoin?
 
