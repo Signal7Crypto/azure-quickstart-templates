@@ -15,7 +15,7 @@ What is TrumpCoin?
 
 TrumpCoin is a Proof of Stack (POS) cryptocurrency that promotes free markets, free societies, fair trade, and the peoples' power to vote with thier money.
 
- - 4 minute block targets
+ - 2 minute block targets
  - Proof of Work/Proof of Stake Hybrid blockchain security model (X11)
 
 
