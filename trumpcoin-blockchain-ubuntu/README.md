@@ -13,7 +13,7 @@ You may then connect via SSH to the VM and launch 'Trumpcoind' to interface with
 What is TrumpCoin?
 ----------------
 
-TrumpCoin is a Proof of Stack (POS) cryptocurrency that promotes free markets, free societies, fair trade, and the peoples' power to vote with thier money.
+TrumpCoin is a Proof of Stake (POS) cryptocurrency that promotes free markets, free societies, fair trade, and the peoples' power to vote with thier money.
 
  - 2 minute block targets
  - Proof of Work/Proof of Stake Hybrid blockchain security model (X11)
