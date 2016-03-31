@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "TrumpCoin Blockchain on Ubuntu",
+  "description": "This template deploys a TrumpCoin node on a Ubuntu virtual machines.",
+  "summary": "Deploy a TrumpCoin node on Ubuntu.",
+  "githubUsername": "Signal7Crypto",
+  "dateUpdated": "2016-03-31"
+}
